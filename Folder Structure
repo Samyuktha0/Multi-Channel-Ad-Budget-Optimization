@@ -1,0 +1,11 @@
+ad-budget-optimization/
+├── data/
+│   └── ad_spend.csv
+├── notebooks/
+│   └── optimization_model.ipynb
+├── src/
+│   └── optimizer.py
+├── tableau/
+│   └── dashboard.twb
+├── requirements.txt
+└── README.md
